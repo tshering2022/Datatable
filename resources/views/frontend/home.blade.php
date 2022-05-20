@@ -10,4 +10,5 @@
             @include('frontend.components.carousel')
         </div>
     </div>
+    
 @endsection
